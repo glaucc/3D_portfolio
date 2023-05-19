@@ -35,19 +35,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Security Analyst",
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
-  },
-  {
-    title: "Backend Developer",
+    title: "Web Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Mentor",
+    icon: mobile,
+  },
+  {
+    title: "Boxer",
     icon: creator,
   },
 ];
@@ -111,7 +111,7 @@ const experiences = [
     company_name: "Freelance",
     
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Oct 2021 - Now",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -151,25 +151,25 @@ const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+    name: "Lamiya A.",
+    designation: "CEO",
+    company: "Makyaj One",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "I've never met a learner who is more dedicated and willing to put their everything on hard work than him.",
+    name: "Zaur M.",
+    designation: "Trainer",
+    company: "Azerbaijan Boxing Federation",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "After Yusif optimized our website, did security checks, our traffic increased by 50%. We can't thank him enough!",
+    name: "Lisa W.",
+    designation: "Colleague",
+    company: "WCU",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
@@ -178,7 +178,7 @@ const projects = [
   {
     name: "Sferex Agency",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows companies to increase their workflow quality and speed with small fee by using services like SMM, website creating, SEO and more.",
     tags: [
       {
         name: "react",

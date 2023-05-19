@@ -19,7 +19,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Joseffron</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I make web applications feel comfortable by finding & fixing their vulnerabilities<br className='sm:block hidden' />
+            I <br className='sm:block hidden' />
             to provide <b>security</b>
           </p>
         </div>
